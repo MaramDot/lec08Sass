@@ -1,0 +1,8 @@
+@import "variables";
+@import "mixins";
+@import "card";
+
+body {
+    background-color: $secondary-color;
+    font-family: $main-font;
+}
